@@ -8,20 +8,11 @@ _DALINAR_
 [github](https://github.com/)
 ![GatoPulpo](https://myoctocat.com/assets/images/base-octocat.svg)
 
-``` mermaid
-flowchart TD
-graph T ;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
 
-    ```mermaid
-flowchart LR
-A --> B
-```
+
 
 ![gatoCreo](./gif/giphy.gif)
+
+ ~~tachado con espacio~~
 
 
