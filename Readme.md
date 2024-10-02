@@ -6,6 +6,8 @@ _DALINAR_
 ***KAladin***
 
 [github](https://github.com/)
+![GatoPulpo](https://myoctocat.com/assets/images/base-octocat.svg)
+
 ``` mermaid
 flowchart TD
 graph T ;
