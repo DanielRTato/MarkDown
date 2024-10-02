@@ -20,3 +20,7 @@ _DALINAR_
 <sup>lenguaje</sup>
 
 ***cursiva***
+
+- Kaadin
+* Dalinar
++ Adolin
