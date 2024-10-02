@@ -24,3 +24,8 @@ _DALINAR_
 - Kaadin
 * Dalinar
 + Adolin
+
+
+1. Camino de los reyes
+2. Palabras radiantes
+3. JUramentada
